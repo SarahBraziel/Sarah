@@ -1,6 +1,6 @@
 body{background-color: black;
 color: white;}
-header{
+.Cabeçalho{
     display: flex;
     justify-content: center;
     align-items: center;
